@@ -84,7 +84,7 @@ python demo_client.py
 **Developed by Archit**
 
 If you have questions, feedback, or just want to connect, feel free to reach out!
-- **GitHub**: [Your GitHub Profile URL](https://github.com/)
-- **Contact**: [Your Email or Website]
+- **GitHub**: github.com/architagrawal
+
 
 *Built with ❤️ using the Model Context Protocol (MCP).*
