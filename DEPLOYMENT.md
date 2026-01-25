@@ -29,14 +29,3 @@ If you want to host this on a server (like AWS, Render, or a VPS) so you can acc
     }
     ```
 
-## 3. Connecting to Antigravity (Editor Agent)
-To connect this server to your AI Code Editor:
-
-1.  **Look for "MCP Settings"**:
-    Most MCP-compatible editors have a settings file (often `config.json` or `settings.json`) in their config directory.
-2.  **Add the Server**:
-    Use the same JSON configuration found in `MCP_SETUP.md`.
-3.  **Restart**:
-    Restart the editor. The AI agent inside the editor should now have access to your tools.
-
-*Note: Since I am the AI running in your current session, I cannot "hot-plug" new tools into myself instantly. But once you configure the editor, **future** sessions will have access!*

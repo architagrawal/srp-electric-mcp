@@ -7,7 +7,7 @@ name = "srp"
 version = "0.1.0"
 description = "A MCP server for SRP"
 authors = [
-    { name = "Archit", email = "your_email@example.com" }
+    { name = "Archit", email = "architagrawal000@gmail.com" }
 ]
 readme = "README.md"
 requires-python = ">=3.10"
