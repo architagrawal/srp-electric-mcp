@@ -2,7 +2,21 @@
 
 An MCP (Model Context Protocol) server for accessing authentication-protected data from the SRP (Salt River Project) Energy portal.
 
+> [!TIP]
+> **Enjoying this tool?** 🌟 **Star this repository** to show your support! It helps others find the project and keeps development active.
+
+---
+
+## 💼 Work with me!
+**I am currently open to full-time job opportunities.** If you like this project and are looking for a developer who can build robust API integrations and AI tools, let's chat!
+
+- **LinkedIn**: [Archit Agrawal](https://www.linkedin.com/in/architagrawal/)
+- **GitHub**: [@architagrawal](https://github.com/architagrawal)
+
+---
+
 ## Quick Start (One-Click Setup)
+
 
 We provide a user-friendly setup wizard to get you started in seconds.
 
