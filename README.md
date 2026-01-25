@@ -10,7 +10,7 @@ An MCP (Model Context Protocol) server for accessing authentication-protected da
 ## 💼 Work with me!
 **I am currently open to full-time job opportunities.** If you like this project and are looking for a developer who can build robust API integrations and AI tools, let's chat!
 
-- **LinkedIn**: [Archit Agrawal](https://www.linkedin.com/in/architagrawal/)
+- **LinkedIn**: [Archit Agrawal](https://www.linkedin.com/in/agrawal-archit/)
 - **GitHub**: [@architagrawal](https://github.com/architagrawal)
 
 ---
