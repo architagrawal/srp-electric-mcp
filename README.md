@@ -1,17 +1,6 @@
 # SRP Energy MCP Server
 
-An MCP (Model Context Protocol) server for accessing authentication-protected data from the SRP (Salt River Project) Energy portal.
-
-> [!TIP]
-> **Enjoying this tool?** 🌟 **Star this repository** to show your support! It helps others find the project and keeps development active.
-
----
-
-## 💼 Work with me!
-**I am currently open to full-time job opportunities.** If you like this project and are looking for a developer who can build robust API integrations and AI tools, let's chat!
-
-- **LinkedIn**: [Archit Agrawal](https://www.linkedin.com/in/agrawal-archit/)
-- **GitHub**: [@architagrawal](https://github.com/architagrawal)
+A Python MCP server (Model Context Protocol, the standard way to give AI agents tools) for the Salt River Project energy portal. It signs in to your SRP account and gives an assistant like Claude 7 tools and 4 analysis prompts for billing, usage, payments and outages.
 
 ---
 
@@ -92,6 +81,12 @@ You can use the built-in demo script to test your connection:
 ```bash
 python demo_client.py
 ```
+
+## Work with me
+
+I am open to full-time roles building AI agents, integrations and data platforms. [LinkedIn](https://www.linkedin.com/in/agrawal-archit/), [portfolio](https://agrawal-archit.vercel.app).
+
+If this tool is useful, a star helps others find it.
 
 ## Credits
 
